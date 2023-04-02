@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="137"
+   version="1"
+   id="svg62"
+   sodipodi:docname="panel-background.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs66" />
+  <sodipodi:namedview
+     id="namedview64"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.3065693"
+     inkscape:cx="32.129987"
+     inkscape:cy="68.594223"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg62" />
+  <rect
+     id="center"
+     style="fill:#252a35;opacity:0.7"
+     width="50"
+     height="50"
+     x="7"
+     y="14" />
+  <g
+     id="bottomleft"
+     transform="translate(-10,-3.0010714)"
+     style="opacity:0.7">
+    <path
+       style="fill:#252a35"
+       d="m 17.000005,74.000025 v -7 h -7 v 2 c 0,2.77 2.23,5 5,5 z"
+       id="path3" />
+    <path
+       style="opacity:0.2"
+       d="m 10,67 v 2 c 0,2.77 2.23,5 5,5 h 2 v -1 h -2 c -2.233297,0 -4,-1.766703 -4,-4 v -2 z"
+       id="path5" />
+  </g>
+  <g
+     id="left"
+     transform="translate(-10,-3.0010714)"
+     style="opacity:0.7">
+    <path
+       style="fill:#252a35"
+       d="m 10.000015,16.999925 v 50 l 7,10e-6 v -50 z"
+       id="path8" />
+    <path
+       style="opacity:0.2"
+       d="m 10,17 v 50 h 1 V 17 Z"
+       id="path10" />
+  </g>
+  <g
+     id="right"
+     transform="translate(-10,-3.0010714)"
+     style="opacity:0.7">
+    <path
+       style="fill:#252a35"
+       d="m 73.999995,16.999935 v 50 l -7,1e-5 v -50 z"
+       id="path13" />
+    <path
+       style="opacity:0.2"
+       d="m 73,17 v 50 h 1 V 17 Z"
+       id="path15" />
+  </g>
+  <g
+     id="bottom"
+     transform="translate(-10,-3.0010714)"
+     style="opacity:0.7">
+    <path
+       style="fill:#252a35"
+       d="m 16.999975,74.000065 h 50.00002 v -7 h -50.00001 z"
+       id="path18" />
+    <path
+       style="opacity:0.2"
+       d="m 17,73 v 1 h 50 v -1 z"
+       id="path20" />
+  </g>
+  <g
+     id="bottomright"
+     transform="translate(-10,-3.0010714)"
+     style="opacity:0.7">
+    <path
+       style="fill:#252a35"
+       d="m 66.999995,74.000025 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"
+       id="path23" />
+    <path
+       style="opacity:0.2"
+       d="m 73,67 v 2 c 0,2.233297 -1.766703,4 -4,4 h -2 v 1 h 2 c 2.77,0 5,-2.23 5,-5 v -2 z"
+       id="path25" />
+  </g>
+  <g
+     id="top"
+     transform="translate(-10,-3.0010714)"
+     style="opacity:0.7">
+    <path
+       style="fill:#252a35"
+       d="m 16.999975,9.999935 h 50.00002 v 7 h -50.00001 z"
+       id="path28" />
+    <path
+       style="opacity:0.2"
+       d="m 17,10 v 1 h 50 v -1 z"
+       id="path30" />
+  </g>
+  <g
+     id="topright"
+     transform="translate(-10,-3.0010714)"
+     style="opacity:0.7">
+    <path
+       style="fill:#252a35"
+       d="m 66.999995,9.999935 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"
+       id="path33" />
+    <path
+       style="opacity:0.2"
+       d="m 67,10 v 1 h 2 c 2.233297,0 4,1.766703 4,4 v 2 h 1 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"
+       id="path35" />
+  </g>
+  <g
+     id="topleft"
+     transform="translate(-10,-3.0010714)"
+     style="opacity:0.7">
+    <path
+       style="fill:#252a35"
+       d="m 17.000005,9.999935 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"
+       id="path38" />
+    <path
+       style="opacity:0.2"
+       d="m 15,10 c -2.77,0 -5,2.23 -5,5 v 2 h 1 v -2 c 0,-2.233297 1.766703,-4 4,-4 h 2 v -1 z"
+       id="path40" />
+  </g>
+  <rect
+     id="thick-hint-top-margin"
+     style="fill:#ff0000;opacity:0.7"
+     width="4"
+     height="7"
+     x="29"
+     y="7" />
+  <rect
+     id="hint-top-margin"
+     style="fill:#ff00ff;opacity:0.7"
+     width="4"
+     height="2"
+     x="29"
+     y="7" />
+  <rect
+     id="thick-hint-bottom-margin"
+     style="fill:#ff0000;opacity:0.7"
+     width="4"
+     height="7"
+     x="29"
+     y="64" />
+  <rect
+     id="hint-bottom-margin"
+     style="fill:#ff00ff;opacity:0.7"
+     width="4"
+     height="2"
+     x="29"
+     y="69" />
+  <rect
+     id="thick-hint-left-margin"
+     style="fill:#ff0000;opacity:0.7"
+     width="4"
+     height="7"
+     x="35"
+     y="-7"
+     transform="rotate(90)" />
+  <rect
+     id="hint-left-margin"
+     style="fill:#ff00ff;opacity:0.7"
+     width="2"
+     height="4"
+     x="0"
+     y="35" />
+  <rect
+     id="thick-hint-right-margin"
+     style="fill:#ff0000;opacity:0.7"
+     width="4"
+     height="7"
+     x="35"
+     y="-64"
+     transform="rotate(90)" />
+  <rect
+     id="hint-right-margin"
+     style="fill:#ff00ff;opacity:0.7"
+     width="2"
+     height="4"
+     x="62"
+     y="35" />
+  <rect
+     id="hint-tile-center"
+     style="fill:#ff6600;opacity:0.9"
+     width="5"
+     height="5"
+     x="0"
+     y="0" />
+  <rect
+     id="mask-center"
+     width="50"
+     height="50"
+     x="7"
+     y="80"
+     style="opacity:0.8" />
+  <path
+     id="mask-topleft"
+     d="m 7,72.999875 v 7 H 0 v -2 c 0,-2.77 2.23,-5 5,-5 z"
+     style="opacity:0.8" />
+  <path
+     id="mask-left"
+     d="m 1e-5,79.999865 v 49.999995 l 7,10e-6 V 79.999875 Z"
+     style="opacity:0.8" />
+  <path
+     id="mask-right"
+     d="m 63.99999,79.999875 v 49.999995 l -7,1e-5 V 79.999885 Z"
+     style="opacity:0.8" />
+  <path
+     id="mask-bottomleft"
+     d="m 7,136.99996 v -7 H 0 v 2 c 0,2.77 2.23,5 5,5 z"
+     style="opacity:0.8" />
+  <path
+     id="mask-bottom"
+     d="m 6.99997,137 h 50.00002 v -7 H 6.99998 Z"
+     style="opacity:0.8" />
+  <path
+     id="mask-bottomright"
+     d="m 56.99999,136.99996 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"
+     style="opacity:0.8" />
+  <path
+     id="mask-topright"
+     d="m 56.99999,72.999875 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"
+     style="opacity:0.8" />
+  <path
+     id="mask-top"
+     d="m 6.99997,72.999875 h 50.00002 v 7 H 6.99998 Z"
+     style="opacity:0.8" />
+  <rect
+     id="thick-center"
+     style="fill:#800080;opacity:0.9"
+     width="5"
+     height="5"
+     x="5"
+     y="0" />
+</svg>
